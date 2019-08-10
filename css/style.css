@@ -11,30 +11,32 @@ nav {
     display: flex;
     margin: 1em;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 nav img {
-    width: 200px;
+    width: 140px;
     height: 100%;
-    padding: 0 1em 0 0;
+    padding: 0 0.2em 0 0;
 }
 
 nav a {
-    font-size: 1.33em;
+    font-size: 1.2em;
     color: #011F3F;
     text-decoration: underline;
-    padding: 0 1em 0 1em;
+    padding: 0 0.5em 0 0.5em;
 }
 
 .landing_section {
-    display: flex;
-    margin: 1em;
+    display: block;
+    margin: 3em 2em;
     align-items: center;
+    text-align: center;
 }
 
 #wrapper_text {
     display: flex;
+    text-align: center;
     flex-direction: column;
     align-items: center;
 }
@@ -51,6 +53,11 @@ nav a {
     font-size: 1.5em;
     text-align: center;
     margin: 1em 0 0 0;
+}
+
+.highlight {
+    background-color: #fff2ac;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
 }
 
 .main_cta {
@@ -117,7 +124,7 @@ nav a {
 }
 
 .list_of_cards {
-    margin: 1em;
+    margin: 0.5em;
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
@@ -135,7 +142,7 @@ nav a {
     width: 213px;
     border-radius: 8px;
     box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.3);
-    margin: 1em;
+    margin: 0.5em;
 }
 
 .profile_image {
@@ -144,6 +151,8 @@ nav a {
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     object-fit: cover;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
 }
 
 .name {
@@ -199,6 +208,10 @@ footer {
     font-weight: 400;
     font-size: 1.2em;
     text-decoration: none;
+}
+
+.footer_link {
+    color: #F3F3F3;
 }
 
 .signup_card {
@@ -257,7 +270,8 @@ footer {
 @media screen and (min-width:768px) and (max-width:899px) {
     .landing_section {
         flex-direction: row;
-        margin: 2em;
+        margin: 2.5em 2em;
+        text-align: center;
     }
     #landing_image {
         width: 100%;
@@ -265,15 +279,15 @@ footer {
         height: auto;
     }
     #wrapper_text {
-        align-items: initial;
+        text-align: center;
     }
     .heading_1 {
         font-size: 3.2em;
-        text-align: initial;
+        text-align: center;
         margin-right: 1em;
     }
     .heading_2 {
-        text-align: initial;
+        text-align: center;
         margin: 1em 1em 0 0;
     }
     .heading_3 {
@@ -294,7 +308,8 @@ footer {
 @media screen and (min-width:900px) {
     .landing_section {
         flex-direction: row;
-        margin: 2em;
+        margin: 2.5em 2em;
+        text-align: center;
     }
     #landing_image {
         width: 100%;
@@ -302,17 +317,17 @@ footer {
         height: auto;
     }
     #wrapper_text {
-        align-items: initial;
         padding-left: 1em;
+        text-align: center;
     }
     .heading_1 {
         font-size: 3.7em;
-        text-align: initial;
+        text-align: center;
         margin-right: 1em;
 
     }
     .heading_2 {
-        text-align: initial;
+        text-align: center;
         margin: 0 1em 0 0;
         font-size: 1.5em;
     }
@@ -327,7 +342,8 @@ footer {
         flex-wrap: wrap;
         overflow-x: initial;
         -webkit-overflow-scrolling: initial;
-        justify-content: space-evenly;
+        justify-content: center;
+        margin: 0.5em;
     }
     .profile_card {
         margin: 2em;
