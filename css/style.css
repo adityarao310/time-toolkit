@@ -123,6 +123,11 @@ nav a {
     background-color: #0960C6;
 }
 
+#misc_people_tag {
+    background: #ffe359;
+    color: initial;
+}
+
 .list_of_cards {
     margin: 0.5em;
     display: flex;
