@@ -10,7 +10,7 @@ csvFilePath = "test.csv"
 jsonFilePath = "output.json"
 folder = r"/Users/adityarao310/Documents/everyoneShouldCode/time-toolkit/images/profiles/"
 string_path = "images/profiles/"
-inputs = ["music", "author", "politician", "scientist", "sports"]
+inputs = ["music", "author", "politician", "scientist", "sports", "misc"]
 
 
 def generate_image_path(category_name_string, row_of_dicts):
