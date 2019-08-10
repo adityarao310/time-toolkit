@@ -603,15 +603,17 @@ function music() {
     db_sorted[0].forEach(element => {
         let newmarkup = `
             <div class="profile_card">
-                <img class="profile_image" src="${element.image}" alt="">
+                <a href="${element.link}?ref=timespent.co" target="_blank">
+                    <img class="profile_image" src="${element.image}" alt="">
+                </a>
                 <p class="name">
-                    <a class="title_link"href="${element.link} + "?ref=timespent.co"" target="_blank">
+                    <a class="title_link" href="${element.link}?ref=timespent.co" target="_blank">
                         ${get_random_emoji() + " " + element.name}
                     </a>
                 </p>
                 <p class="title">${element.title}</p>
                 <p class="description">${element.description}</p>
-                <p class="read_more"><a href="${element.link}" target="_blank">Check it out</a></p>
+                <p class="read_more"><a href="${element.link}?ref=timespent.co" target="_blank">Check it out</a></p>
             </div>
             `;
         music_markup = music_markup + newmarkup;
@@ -624,15 +626,17 @@ function science() {
     db_sorted[1].forEach(element => {
         let newmarkup = `
             <div class="profile_card">
-                <img class="profile_image" src="${element.image}" alt="">
+                <a href="${element.link}?ref=timespent.co" target="_blank">
+                    <img class="profile_image" src="${element.image}" alt="">
+                </a>
                 <p class="name">
-                    <a class="title_link"href="${element.link} + "?ref=timespent.co"" target="_blank">
+                    <a class="title_link" href="${element.link}?ref=timespent.co" target="_blank">
                         ${get_random_emoji() + " " + element.name}
                     </a>
                 </p>
                 <p class="title">${element.title}</p>
                 <p class="description">${element.description}</p>
-                <p class="read_more"><a href="${element.link}" target="_blank">Check it out</a></p>
+                <p class="read_more"><a href="${element.link}?ref=timespent.co" target="_blank">Check it out</a></p>
             </div>
             `;
         science_markup = science_markup + newmarkup;
@@ -645,15 +649,17 @@ function sports() {
     db_sorted[2].forEach(element => {
         let newmarkup = `
             <div class="profile_card">
-                <img class="profile_image" src="${element.image}" alt="">
+                <a href="${element.link}?ref=timespent.co" target="_blank">
+                    <img class="profile_image" src="${element.image}" alt="">
+                </a>
                 <p class="name">
-                    <a class="title_link"href="${element.link} + "?ref=timespent.co"" target="_blank">
+                    <a class="title_link" href="${element.link}?ref=timespent.co" target="_blank">
                         ${get_random_emoji() + " " + element.name}
                     </a>
                 </p>
                 <p class="title">${element.title}</p>
                 <p class="description">${element.description}</p>
-                <p class="read_more"><a href="${element.link}" target="_blank">Check it out</a></p>
+                <p class="read_more"><a href="${element.link}?ref=timespent.co" target="_blank">Check it out</a></p>
             </div>
             `;
         sports_markup = sports_markup + newmarkup;
@@ -666,15 +672,17 @@ function author() {
     db_sorted[4].forEach(element => {
         let newmarkup = `
             <div class="profile_card">
-                <img class="profile_image" src="${element.image}" alt="">
+                <a href="${element.link}?ref=timespent.co" target="_blank">
+                    <img class="profile_image" src="${element.image}" alt="">
+                </a>
                 <p class="name">
-                    <a class="title_link"href="${element.link} + "?ref=timespent.co"" target="_blank">
+                    <a class="title_link" href="${element.link}?ref=timespent.co" target="_blank">
                         ${get_random_emoji() + " " + element.name}
                     </a>
                 </p>
                 <p class="title">${element.title}</p>
                 <p class="description">${element.description}</p>
-                <p class="read_more"><a href="${element.link}" target="_blank">Check it out</a></p>
+                <p class="read_more"><a href="${element.link}?ref=timespent.co" target="_blank">Check it out</a></p>
             </div>
             `;
         author_markup = author_markup + newmarkup;
@@ -687,15 +695,17 @@ function politics() {
     db_sorted[3].forEach(element => {
         let newmarkup = `
             <div class="profile_card">
-                <img class="profile_image" src="${element.image}" alt="">
+                <a href="${element.link}?ref=timespent.co" target="_blank">
+                    <img class="profile_image" src="${element.image}" alt="">
+                </a>
                 <p class="name">
-                    <a class="title_link"href="${element.link} + "?ref=timespent.co"" target="_blank">
+                    <a class="title_link" href="${element.link}?ref=timespent.co" target="_blank">
                         ${get_random_emoji() + " " + element.name}
                     </a>
                 </p>
                 <p class="title">${element.title}</p>
                 <p class="description">${element.description}</p>
-                <p class="read_more"><a href="${element.link}" target="_blank">Check it out</a></p>
+                <p class="read_more"><a href="${element.link}?ref=timespent.co" target="_blank">Check it out</a></p>
             </div>
             `;
         politics_markup = politics_markup + newmarkup;
@@ -708,15 +718,17 @@ function misc() {
     db_sorted[5].forEach(element => {
         let newmarkup = `
             <div class="profile_card">
-                <img class="profile_image" src="${element.image}" alt="">
+                <a href="${element.link}?ref=timespent.co" target="_blank">
+                    <img class="profile_image" src="${element.image}" alt="">
+                </a>
                 <p class="name">
-                    <a class="title_link"href="${element.link} + "?ref=timespent.co"" target="_blank">
+                    <a class="title_link" href="${element.link}?ref=timespent.co" target="_blank">
                         ${get_random_emoji() + " " + element.name}
                     </a>
                 </p>
                 <p class="title">${element.title}</p>
                 <p class="description">${element.description}</p>
-                <p class="read_more"><a href="${element.link}" target="_blank">Check it out</a></p>
+                <p class="read_more"><a href="${element.link}?ref=timespent.co" target="_blank">Check it out</a></p>
             </div>
             `;
         misc_markup = misc_markup + newmarkup;
