@@ -1,0 +1,154 @@
+[
+    {
+        "category": "music", 
+        "name": "Moment", 
+        "title": "iOS App", 
+        "image": "images/profiles/music/aron-visuals-BXOXnQ26B7o-unsplash.jpg", 
+        "link": "https://inthemoment.io/", 
+        "description": "A little less relevant post the new iOS screentime features, but the moment coach feature is great! Actionable insights on how to decrease screen time."
+    }, 
+    {
+        "category": "scientist", 
+        "name": "AppBlock", 
+        "title": "Android", 
+        "image": "images/profiles/scientist/test6.jpg", 
+        "link": "https://www.appblock.app", 
+        "description": "Blog distracting apps on your phone so that you get to focus on real work. Works as simple as it sounds. "
+    }, 
+    {
+        "category": "scientist", 
+        "name": "Find Focus", 
+        "title": "Mac, Windows", 
+        "image": "images/profiles/scientist/test6.jpg", 
+        "link": "https://findfocus.net/", 
+        "description": "Not the best UX, but works pretty simply - put a list of websites and apps that you want to block and it will take care of the rest. "
+    }, 
+    {
+        "category": "scientist", 
+        "name": "Freedom", 
+        "title": "Mac, Windows, iOS, Android", 
+        "image": "images/profiles/scientist/test1.jpg", 
+        "link": "https://freedom.to/", 
+        "description": "App and website blocker for all platforms. Of course, doing app blocking stuff on iOS is tricky and messes with the folders so proceed with caution"
+    }, 
+    {
+        "category": "scientist", 
+        "name": "Nudge", 
+        "title": "Chrome Extension", 
+        "image": "images/profiles/scientist/test6.jpg", 
+        "link": "https://chrome.google.com/webstore/detail/nudge/dmhgdnbkjkejeddddlklojinngaideac", 
+        "description": "Get nudges in your browser window when time spent on a website is a little too much. Auto hide addictive sections like news feed etc"
+    }, 
+    {
+        "category": "politician", 
+        "name": "Cold Turkey", 
+        "title": "Mac", 
+        "image": "images/profiles/politician/icons8-team-dhZtNlvNE8M-unsplash.jpg", 
+        "link": "https://getcoldturkey.com/", 
+        "description": "Works on a monthly subscription, and you can schedule distraction free blocks and even pomodoro style slots."
+    }, 
+    {
+        "category": "politician", 
+        "name": "Cold Turkey - Writer", 
+        "title": "Mac", 
+        "image": "images/profiles/politician/icons8-team-dhZtNlvNE8M-unsplash.jpg", 
+        "link": "https://getcoldturkey.com/writer/", 
+        "description": "Blocks all distractions until you hit your written words goal for the session! Pretty useful for writers on a deadline."
+    }, 
+    {
+        "category": "politician", 
+        "name": "Deskcover Pro", 
+        "title": "Mac", 
+        "image": "images/profiles/politician/icons8-team-dhZtNlvNE8M-unsplash.jpg", 
+        "link": "http://www.noteifyapp.com/deskcover/?ref=producthunt", 
+        "description": "Hide all the cluttered icons on your macbook with a single global hotkey, and dim inactive windows for focus."
+    }, 
+    {
+        "category": "politician", 
+        "name": "Do Nothing for 2 Minutes", 
+        "title": "Web", 
+        "image": "images/profiles/politician/aron-visuals-BXOXnQ26B7o-unsplash.jpg", 
+        "link": "http://www.donothingfor2minutes.com/", 
+        "description": "Want to take a break from the chaos? Just sit back, do nothing and listen to the sound of waves. "
+    }, 
+    {
+        "category": "politician", 
+        "name": "Flipd", 
+        "title": "Android, iOS", 
+        "image": "images/profiles/politician/aron-visuals-BXOXnQ26B7o-unsplash.jpg", 
+        "link": "https://www.flipdapp.co/", 
+        "description": "Has everything combined into one - stop distracting apps, tracks your habits and you can also join a community of people with similar goals to get better"
+    }, 
+    {
+        "category": "politician", 
+        "name": "Focus", 
+        "title": "Mac App", 
+        "image": "images/profiles/politician/aron-visuals-BXOXnQ26B7o-unsplash.jpg", 
+        "link": "https://heyfocus.com/", 
+        "description": "Our most favourite and recommended one - blocks apps and websites in one click. You can also find some interesting Alfred app integrations .."
+    }, 
+    {
+        "category": "politician", 
+        "name": "Forest", 
+        "title": "Android, Chrome Extension, iOS", 
+        "image": "images/profiles/politician/icons8-team-dhZtNlvNE8M-unsplash.jpg", 
+        "link": "http://forestapp.cc/", 
+        "description": "This is definitely the most fun one - and we loved it - plant as many trees as you do focus sessions! Your trees get killed if you get distracted."
+    }, 
+    {
+        "category": "politician", 
+        "name": "Hazeover: Distraction Dimmer", 
+        "title": "Mac", 
+        "image": "images/profiles/politician/aron-visuals-BXOXnQ26B7o-unsplash.jpg", 
+        "link": "https://hazeover.com/", 
+        "description": "Dims all other windows so that you can focus on current one - perfect if you are a designer or techie using multiple windows"
+    }, 
+    {
+        "category": "politician", 
+        "name": "Noisli", 
+        "title": "Android, Chrome Extension, Web, iOS", 
+        "image": "images/profiles/politician/aron-visuals-BXOXnQ26B7o-unsplash.jpg", 
+        "link": "https://www.noisli.com/?ref=producthunt", 
+        "description": "Music and ambient sounds help you get into deep focus? Use this to mix match sounds like rain, forest, birds etc for the ideal mix. "
+    }, 
+    {
+        "category": "author", 
+        "name": "Detoxify", 
+        "title": "iOS", 
+        "image": "images/profiles/author/lukas-blazek-UAvYasdkzq8-unsplash.jpg", 
+        "link": "https://apps.apple.com/us/app/detoxify/id1438276133", 
+        "description": "Claims to be a one stop shop for tracking habits and keeping your bad habits in check e.g. smoking etc. Rewards you with other free activities from sponsored partners. "
+    }, 
+    {
+        "category": "sports", 
+        "name": "BlockSite", 
+        "title": "Android, Chrome Extension", 
+        "image": "images/profiles/sports/vince-fleming-aZVpxRydiJk-unsplash.jpg", 
+        "link": "https://blocksite.co/", 
+        "description": "Block distracting websites for some time, doesnt work for apps yet. There is a very easy way to get into the break mode."
+    }, 
+    {
+        "category": "sports", 
+        "name": "Boomerang Inbox Pause", 
+        "title": "Chrome Extension", 
+        "image": "images/profiles/sports/.DS_Store", 
+        "link": "http://inboxpause.com/", 
+        "description": "By well known Boomerang team, gives you ability to get all emails in few specific slots during the day vs constant notifications. "
+    }, 
+    {
+        "category": "sports", 
+        "name": "Distraction Free Youtube", 
+        "title": "Chrome Extension", 
+        "image": "images/profiles/sports/.DS_Store", 
+        "link": "https://chrome.google.com/webstore/detail/df-youtube-distraction-fr/mjdepdfccjgcndkmemponafgioodelna?hl=en", 
+        "description": "Ever gotten lost in the YouTube video hole? This one is for you - it removes the recommended videos so you don't over spend time. "
+    }, 
+    {
+        "category": "sports", 
+        "name": "Inbox When Ready", 
+        "title": "Chrome Extension", 
+        "image": "images/profiles/sports/jonathan-chng-HgoKvtKpyHA-unsplash.jpg", 
+        "link": "https://inboxwhenready.org/", 
+        "description": "Batch process your emails to minimise total time spent going through emails. Writing emails is not equal to work for sure!"
+    }
+]
