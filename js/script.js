@@ -12,6 +12,24 @@ misc - Bonus stuff
 const main_db =
     [
         {
+            "category": "music",
+            "name": "Focus",
+            "title": "Mac App",
+            "image": "images/profiles/music/time-spent-focus-better119.jpg",
+            "link": "https://heyfocus.com/",
+            "category_true": "Focus better",
+            "description": "Our most favourite and recommended one - blocks apps and websites in one click. You can also find some interesting Alfred app integrations .."
+        },
+        {
+            "category": "music",
+            "name": "Forest",
+            "title": "Android, Chrome Extension, iOS",
+            "image": "images/profiles/music/time-spent-focus-better92.jpg",
+            "link": "http://forestapp.cc/",
+            "category_true": "Focus better",
+            "description": "This is definitely the most fun one - and we loved it - plant as many trees as you do focus sessions! Your trees get killed if you get distracted."
+        },
+        {
             "category": "politician",
             "name": "Moment",
             "title": "iOS App",
@@ -229,24 +247,6 @@ const main_db =
         },
         {
             "category": "music",
-            "name": "Focus",
-            "title": "Mac App",
-            "image": "images/profiles/music/time-spent-focus-better119.jpg",
-            "link": "https://heyfocus.com/",
-            "category_true": "Focus better",
-            "description": "Our most favourite and recommended one - blocks apps and websites in one click. You can also find some interesting Alfred app integrations .."
-        },
-        {
-            "category": "music",
-            "name": "Forest",
-            "title": "Android, Chrome Extension, iOS",
-            "image": "images/profiles/music/time-spent-focus-better92.jpg",
-            "link": "http://forestapp.cc/",
-            "category_true": "Focus better",
-            "description": "This is definitely the most fun one - and we loved it - plant as many trees as you do focus sessions! Your trees get killed if you get distracted."
-        },
-        {
-            "category": "music",
             "name": "Hazeover: Distraction Dimmer",
             "title": "Mac",
             "image": "images/profiles/music/time-spent-focus-better102.jpg",
@@ -357,7 +357,7 @@ const main_db =
             "category": "music",
             "name": "Donut Dog",
             "title": "iOS, Android",
-            "image": "time-spent-focus-better87.jpg",
+            "image": "images/profiles/music/time-spent-focus-better87.jpg",
             "link": "https://donutdog.club/",
             "category_true": "Focus better",
             "description": "A gamified version of most pomodoro apps. Motivates you to complete focus sessions via a set of challenges!"
